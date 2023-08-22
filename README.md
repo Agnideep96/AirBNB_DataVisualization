@@ -4,3 +4,5 @@ This data visualization project on a Big Data set examines the growth of Airbnb 
 This project has used Python for data cleaning and PowerBI for data visualization
 # Video Link for the presentation
 https://www.youtube.com/watch?v=fffNf-paZDM
+
+Authors: Agnideep Mukherjee & Anjali Kumari
